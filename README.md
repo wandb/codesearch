@@ -10,4 +10,6 @@ python train.py
 
 ## Benchmark Results
 
-## Time | Name | Score | Repo
+
+| Date | User | Score | Repo
+| --- | --- | --- | --- |
