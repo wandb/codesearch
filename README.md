@@ -13,4 +13,3 @@ python train.py
 
 | Date | User | Score | Repo
 | --- | --- | --- | --- |
-| 14-Jun-19-00:59 | [nbardy](http://github.com/nbardy) | 0.068879 | [Repo](http://github.com/nbardy/codesearch) |
