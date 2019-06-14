@@ -8,9 +8,9 @@ Fork the repo
 python train.py
 ```
 
-## Benchmark Results
+## Benchmark Results 
 
+[Viewable on WandB with visualizations](http://app.test/nick/codesearch-benchmark/benchmark)
 
 | Date | User | Score | Repo
 | --- | --- | --- | --- |
-| 14-Jun-19-01:07 | [nbardy](http://github.com/nbardy) | 0.068879 | [Repo](http://github.com/nbardy/codesearch) |
